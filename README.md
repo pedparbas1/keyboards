@@ -5,7 +5,8 @@ It's just the EN-US layout with just the number row shifted from 1 to '-'. Makes
 ## Windows
 There's the installer and the .klc if you want to make some changes using [msklc](https://www.microsoft.com/en-us/download/details.aspx?id=102134) *(make sure you install it directly under the drive's root since it fails to make the .dll's if not)*.
 
-![normal klc](./EnUsP.jpg)
+![normal klc](./EnUsPr.jpg)
 
-![shifted klc](./EnUsPShft.jpg)
+![shifted klc](./EnUsPrShft.jpg)
 
+Also really encouraged to change CapsLock key for the Esc *(just use PowerToys from msstore)*
